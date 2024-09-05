@@ -13,7 +13,7 @@
       <link>https://elsandry.github.io/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://elsandry.github.io/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;YouTube privacy enhanced shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&#xA;YouTube URL:&#xA;https://www.youtube.com/watch?v=3qHkcs3kG44 Shortcode:&#xA;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}} Rendered output: Twitter You want to include a single tweet into your blog post?</description>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
   </channel>
 </rss>
