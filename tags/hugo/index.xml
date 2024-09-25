@@ -6,8 +6,15 @@
     <description>Recent content in Hugo on Zigzaggeries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://elsandry.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Still not sure about the card style for this site</title>
+      <link>https://elsandry.github.io/post/2024/sep/still-not-sure/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://elsandry.github.io/post/2024/sep/still-not-sure/</guid>
+      <description>While I know there are lots of sites around the web that are styled using a card type layout, I think that I was probably most influenced by Will Buckingham&amp;rsquo;s blog.</description>
+    </item>
     <item>
       <title>Notes on creating this site</title>
       <link>https://elsandry.github.io/post/2024/sep/notes-on-creating-this-site/</link>
@@ -20,7 +27,7 @@
       <link>https://elsandry.github.io/post/2020/jan/use-this-theme/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://elsandry.github.io/post/2020/jan/use-this-theme/</guid>
-      <description>This site is under construction and currently most of the content is just copied from the example site to help me fimd my way around&amp;hellip;</description>
+      <description>This site is under construction and currently most of the content is just copied from the example site to help me find my way around&amp;hellip;</description>
     </item>
     <item>
       <title>Build a Hugo Blog</title>
