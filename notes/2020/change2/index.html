@@ -498,9 +498,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="37eede4a5d17a098b568343b1846fee7" data-page-url="https://elsandry.github.io/notes/2020/change2/"
-        data-page-title="Which commercial social network to leave first?"
-        data-theme="auto">
+        data-page-title="Which commercial social network to leave first?">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

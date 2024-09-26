@@ -525,9 +525,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="28e7ae89b0bd952819d61c4f449cdfad" data-page-url="https://elsandry.github.io/post/2024/sep/still-not-sure/"
-        data-page-title="Still not sure about the card style for this site"
-        data-theme="auto">
+        data-page-title="Still not sure about the card style for this site">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

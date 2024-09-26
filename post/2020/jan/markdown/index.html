@@ -527,9 +527,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="9734eb17366329ca0def96ea49bcc4f1" data-page-url="https://elsandry.github.io/post/2020/jan/markdown/"
-        data-page-title="What is Markdown ?"
-        data-theme="auto">
+        data-page-title="What is Markdown ?">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

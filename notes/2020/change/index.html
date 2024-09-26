@@ -492,9 +492,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="4597abc0aabf71330137d80dce8e47b0" data-page-url="https://elsandry.github.io/notes/2020/change/"
-        data-page-title="Creating a new website..."
-        data-theme="auto">
+        data-page-title="Creating a new website...">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

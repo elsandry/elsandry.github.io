@@ -534,9 +534,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="98a8c9eead95d0c9115ae5a25340eff5" data-page-url="https://elsandry.github.io/post/2024/sep/notes-on-creating-this-site/"
-        data-page-title="Notes on creating this site"
-        data-theme="auto">
+        data-page-title="Notes on creating this site">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

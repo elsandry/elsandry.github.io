@@ -527,9 +527,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="d0bae18856a171a8baa6f1ff0f852206" data-page-url="https://elsandry.github.io/collections/2023/collections/"
-        data-page-title="Robots and Communication"
-        data-theme="auto">
+        data-page-title="Robots and Communication">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

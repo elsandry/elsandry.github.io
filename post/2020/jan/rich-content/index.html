@@ -553,9 +553,12 @@
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="229a71175fac6348cc3ced9ddf270d65" data-page-url="https://elsandry.github.io/post/2020/jan/rich-content/"
-        data-page-title="Rich Content"
-        data-theme="auto">
+        data-page-title="Rich Content">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>

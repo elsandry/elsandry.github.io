@@ -555,9 +555,12 @@ Make free stuff! The web is still for everyone.<br>
       <div id="cusdis_thread" data-host="https://cusdis.com"
         data-app-id="27736914-59ca-4868-b876-e8b9f3e90807"
         data-page-id="f6bba70343b8256bacf95abefc8f899a" data-page-url="https://elsandry.github.io/collections/2023/collections4/"
-        data-page-title="Collections No.4"
-        data-theme="auto">
+        data-page-title="Collections No.4">
       </div>
+      <script>
+        var mytheme = localStorage.getItem("dark-mode-storage");
+        document.getElementById("cusdis_thread").setAttribute('data-theme',mytheme);
+      </script>
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </div>
   </div>
