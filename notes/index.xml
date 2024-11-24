@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on Zigzaggeries</title>
-    <link>https://elsandry.github.io/notes/</link>
-    <description>Recent content in Notes on Zigzaggeries</description>
+    <title>Notes on Zigzaggery</title>
+    <link>https://zigzaggery.space/notes/</link>
+    <description>Recent content in Notes on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elsandry.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zigzaggery.space/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a new website...</title>
-      <link>https://elsandry.github.io/notes/2020/change/</link>
+      <link>https://zigzaggery.space/notes/2020/change/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/notes/2020/change/</guid>
+      <guid>https://zigzaggery.space/notes/2020/change/</guid>
       <description>Creating this site takes time. I&amp;rsquo;m being impatient and really I need to slow down to enjoy the process (and make fewer little mistakes that mean re-doing things time and time again)!</description>
     </item>
     <item>
       <title>Which commercial social network to leave first?</title>
-      <link>https://elsandry.github.io/notes/2020/change2/</link>
+      <link>https://zigzaggery.space/notes/2020/change2/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/notes/2020/change2/</guid>
+      <guid>https://zigzaggery.space/notes/2020/change2/</guid>
       <description>One of the reasons I find it difficult to teach Digital and Social Media is that I&amp;hellip; well&amp;hellip; pretty much hate all the commercial social networks now. The first I&amp;rsquo;ll backburner properly will probably be Facebook.</description>
     </item>
     <item>
       <title>Note 3</title>
-      <link>https://elsandry.github.io/notes/2020/change3/</link>
+      <link>https://zigzaggery.space/notes/2020/change3/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/notes/2020/change3/</guid>
+      <guid>https://zigzaggery.space/notes/2020/change3/</guid>
       <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
     </item>
   </channel>

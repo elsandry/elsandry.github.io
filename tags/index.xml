@@ -1,81 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zigzaggeries</title>
-    <link>https://elsandry.github.io/tags/</link>
-    <description>Recent content in Tags on Zigzaggeries</description>
+    <title>Tags on Zigzaggery</title>
+    <link>https://zigzaggery.space/tags/</link>
+    <description>Recent content in Tags on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elsandry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zigzaggery.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication</title>
+      <link>https://zigzaggery.space/tags/communication/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/tags/communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-Machine Communication</title>
+      <link>https://zigzaggery.space/tags/human-machine-communication/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/tags/human-machine-communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MOOC</title>
+      <link>https://zigzaggery.space/tags/mooc/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/tags/mooc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robots</title>
+      <link>https://zigzaggery.space/tags/robots/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/tags/robots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://zigzaggery.space/tags/teaching/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/tags/teaching/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
-      <link>https://elsandry.github.io/tags/hugo/</link>
+      <link>https://zigzaggery.space/tags/hugo/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/hugo/</guid>
+      <guid>https://zigzaggery.space/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Site</title>
-      <link>https://elsandry.github.io/tags/site/</link>
+      <link>https://zigzaggery.space/tags/site/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/site/</guid>
+      <guid>https://zigzaggery.space/tags/site/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://elsandry.github.io/tags/research/</link>
+      <link>https://zigzaggery.space/tags/research/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/research/</guid>
+      <guid>https://zigzaggery.space/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://elsandry.github.io/tags/blog/</link>
+      <link>https://zigzaggery.space/tags/blog/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/blog/</guid>
+      <guid>https://zigzaggery.space/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>https://elsandry.github.io/tags/newsletter/</link>
+      <link>https://zigzaggery.space/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/newsletter/</guid>
+      <guid>https://zigzaggery.space/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://elsandry.github.io/tags/markdown/</link>
+      <link>https://zigzaggery.space/tags/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/markdown/</guid>
+      <guid>https://zigzaggery.space/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://elsandry.github.io/tags/syntax/</link>
+      <link>https://zigzaggery.space/tags/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/syntax/</guid>
+      <guid>https://zigzaggery.space/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://elsandry.github.io/tags/shortcodes/</link>
+      <link>https://zigzaggery.space/tags/shortcodes/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/shortcodes/</guid>
+      <guid>https://zigzaggery.space/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>https://elsandry.github.io/tags/netlify/</link>
+      <link>https://zigzaggery.space/tags/netlify/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/netlify/</guid>
+      <guid>https://zigzaggery.space/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoicism</title>
-      <link>https://elsandry.github.io/tags/stoicism/</link>
+      <link>https://zigzaggery.space/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/tags/stoicism/</guid>
+      <guid>https://zigzaggery.space/tags/stoicism/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robots on Zigzaggery</title>
+    <link>https://zigzaggery.space/tags/robots/</link>
+    <description>Recent content in Robots on Zigzaggery</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zigzaggery.space/tags/robots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communicating with Robots and Bots</title>
+      <link>https://zigzaggery.space/post/2024/sep/communicating-with-robots-and-bots/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/post/2024/sep/communicating-with-robots-and-bots/</guid>
+      <description>Originally published in 2019 on my old blog, this post has been updated in 2024 to recognise the continued presence of the MOOC Communicating with Robots and Bots&amp;hellip;&#xA;One of the most enjoyable pieces of writing (and collating of research, videos, news articles, images etc) about robots I have done occurred back in 2019.</description>
+    </item>
+  </channel>
+</rss>

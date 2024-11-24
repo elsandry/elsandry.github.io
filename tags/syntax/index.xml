@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syntax on Zigzaggeries</title>
-    <link>https://elsandry.github.io/tags/syntax/</link>
-    <description>Recent content in Syntax on Zigzaggeries</description>
+    <title>Syntax on Zigzaggery</title>
+    <link>https://zigzaggery.space/tags/syntax/</link>
+    <description>Recent content in Syntax on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elsandry.github.io/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zigzaggery.space/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Syntax</title>
-      <link>https://elsandry.github.io/post/2020/jan/syntax/</link>
+      <link>https://zigzaggery.space/post/2020/jan/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/post/2020/jan/syntax/</guid>
+      <guid>https://zigzaggery.space/post/2020/jan/syntax/</guid>
       <description>Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
     </item>
   </channel>

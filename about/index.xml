@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Zigzaggeries</title>
-    <link>https://elsandry.github.io/about/</link>
-    <description>Recent content in About me on Zigzaggeries</description>
+    <title>About me on Zigzaggery</title>
+    <link>https://zigzaggery.space/about/</link>
+    <description>Recent content in About me on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://elsandry.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zigzaggery.space/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

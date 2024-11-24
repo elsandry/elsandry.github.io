@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shortcodes on Zigzaggeries</title>
-    <link>https://elsandry.github.io/tags/shortcodes/</link>
-    <description>Recent content in Shortcodes on Zigzaggeries</description>
+    <title>Shortcodes on Zigzaggery</title>
+    <link>https://zigzaggery.space/tags/shortcodes/</link>
+    <description>Recent content in Shortcodes on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elsandry.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zigzaggery.space/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://elsandry.github.io/post/2020/jan/rich-content/</link>
+      <link>https://zigzaggery.space/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/post/2020/jan/rich-content/</guid>
+      <guid>https://zigzaggery.space/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
   </channel>

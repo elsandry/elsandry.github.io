@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Zigzaggeries</title>
-    <link>https://elsandry.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Zigzaggeries</description>
+    <title>Blog on Zigzaggery</title>
+    <link>https://zigzaggery.space/tags/blog/</link>
+    <description>Recent content in Blog on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elsandry.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zigzaggery.space/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Under Construction</title>
-      <link>https://elsandry.github.io/post/2020/jan/use-this-theme/</link>
+      <link>https://zigzaggery.space/post/2020/jan/use-this-theme/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/post/2020/jan/use-this-theme/</guid>
+      <guid>https://zigzaggery.space/post/2020/jan/use-this-theme/</guid>
       <description>This site is under construction and currently most of the content is just copied from the example site to help me find my way around&amp;hellip;</description>
     </item>
     <item>
       <title>Build a Hugo Blog</title>
-      <link>https://elsandry.github.io/post/2020/jan/build-hugo-blog/</link>
+      <link>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://elsandry.github.io/post/2020/jan/build-hugo-blog/</guid>
+      <guid>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</guid>
       <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.</description>
     </item>
   </channel>
