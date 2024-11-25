@@ -6,8 +6,15 @@
     <description>Recent content on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zigzaggery.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes 17-23 November 2024</title>
+      <link>https://zigzaggery.space/post/2024/nov/weeknotes-24/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/post/2024/nov/weeknotes-24/</guid>
+      <description>My first ever weeknotes post following a momentous week - finishing up my work as a Senior Lecturer&amp;hellip;&#xA;I took this image of an iron steer decorating a gate on the way back from a long-planned beach walk.</description>
+    </item>
     <item>
       <title>Communicating with Robots and Bots</title>
       <link>https://zigzaggery.space/post/2024/sep/communicating-with-robots-and-bots/</link>
@@ -44,60 +51,11 @@
       <description>One of the reasons I find it difficult to teach Digital and Social Media is that I&amp;hellip; well&amp;hellip; pretty much hate all the commercial social networks now. The first I&amp;rsquo;ll backburner properly will probably be Facebook.</description>
     </item>
     <item>
-      <title>Robots and Communication</title>
-      <link>https://zigzaggery.space/collections/2023/collections/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections/</guid>
-      <description>Overview Robots and Communication examines human-robot interactions as models of communication. Robots are intriguing communicators because they are created in such a variety of forms. Some are built to appear humanlike, while others are not humanlike in any way, with many different designs existing in the continuum between these extremes.</description>
-    </item>
-    <item>
       <title>Anthropomorphism and its Discontents</title>
-      <link>https://zigzaggery.space/collections/2023/collections2/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections2/</guid>
+      <link>https://zigzaggery.space/collections/2024/anthropomorphism-chapter/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/collections/2024/anthropomorphism-chapter/</guid>
       <description>Introduction AI technologies raise many ethical questions. Some of these are associated with technical underpinnings and operation; surveillance, data gathering, and analysis, or copyright and intellectual property issues as can be seen in the widescale processing of published writing or artworks that support generative AI.</description>
-    </item>
-    <item>
-      <title>Under Construction</title>
-      <link>https://zigzaggery.space/post/2020/jan/use-this-theme/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/use-this-theme/</guid>
-      <description>This site is under construction and currently most of the content is just copied from the example site to help me find my way around&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Collections No.3</title>
-      <link>https://zigzaggery.space/collections/2023/collections3/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections3/</guid>
-      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
-    </item>
-    <item>
-      <title>Collections No.4</title>
-      <link>https://zigzaggery.space/collections/2023/collections4/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections4/</guid>
-      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
-    </item>
-    <item>
-      <title>Collections No.5</title>
-      <link>https://zigzaggery.space/collections/2023/collections5/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections5/</guid>
-      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
-    </item>
-    <item>
-      <title>Collections No.6</title>
-      <link>https://zigzaggery.space/collections/2023/collections6/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/collections/2023/collections6/</guid>
-      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
-    </item>
-    <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.</description>
     </item>
     <item>
       <title>Note 3</title>
@@ -107,39 +65,11 @@
       <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
     </item>
     <item>
-      <title>What is Markdown ?</title>
-      <link>https://zigzaggery.space/post/2020/jan/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/markdown/</guid>
-      <description>What is Markdown?&#xA;The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.</description>
-    </item>
-    <item>
-      <title>Basic Syntax</title>
-      <link>https://zigzaggery.space/post/2020/jan/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/syntax/</guid>
-      <description>Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://zigzaggery.space/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
-    </item>
-    <item>
-      <title>Host in Netlify</title>
-      <link>https://zigzaggery.space/post/2020/jan/netlify-conf/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify.&#xA;Add the below netlify.toml in the root folder.&#xA;[build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.</description>
-    </item>
-    <item>
-      <title>Who am I ?!</title>
-      <link>https://zigzaggery.space/post/2020/jan/who-am-i/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple.</description>
+      <title>Robots and Communication</title>
+      <link>https://zigzaggery.space/collections/2024/robots-and-communication/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/collections/2024/robots-and-communication/</guid>
+      <description>Overview Robots and Communication examines human-robot interactions as models of communication. Robots are intriguing communicators because they are created in such a variety of forms. Some are built to appear humanlike, while others are not humanlike in any way, with many different designs existing in the continuum between these extremes.</description>
     </item>
   </channel>
 </rss>

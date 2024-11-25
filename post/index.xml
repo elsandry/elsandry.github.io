@@ -6,8 +6,15 @@
     <description>Recent content on Zigzaggery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zigzaggery.space/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes 17-23 November 2024</title>
+      <link>https://zigzaggery.space/post/2024/nov/weeknotes-24/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/post/2024/nov/weeknotes-24/</guid>
+      <description>My first ever weeknotes post following a momentous week - finishing up my work as a Senior Lecturer&amp;hellip;&#xA;I took this image of an iron steer decorating a gate on the way back from a long-planned beach walk.</description>
+    </item>
     <item>
       <title>Communicating with Robots and Bots</title>
       <link>https://zigzaggery.space/post/2024/sep/communicating-with-robots-and-bots/</link>
@@ -28,55 +35,6 @@
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://zigzaggery.space/post/2024/sep/notes-on-creating-this-site/</guid>
       <description>I&amp;rsquo;m creating this site using a theme that I am customising in small ways as I go. While I&amp;rsquo;m building I&amp;rsquo;m just using GitHub Pages as a server for the site.</description>
-    </item>
-    <item>
-      <title>Under Construction</title>
-      <link>https://zigzaggery.space/post/2020/jan/use-this-theme/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/use-this-theme/</guid>
-      <description>This site is under construction and currently most of the content is just copied from the example site to help me find my way around&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.</description>
-    </item>
-    <item>
-      <title>What is Markdown ?</title>
-      <link>https://zigzaggery.space/post/2020/jan/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/markdown/</guid>
-      <description>What is Markdown?&#xA;The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.</description>
-    </item>
-    <item>
-      <title>Basic Syntax</title>
-      <link>https://zigzaggery.space/post/2020/jan/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/syntax/</guid>
-      <description>Headings&#xA;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://zigzaggery.space/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
-    </item>
-    <item>
-      <title>Host in Netlify</title>
-      <link>https://zigzaggery.space/post/2020/jan/netlify-conf/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify.&#xA;Add the below netlify.toml in the root folder.&#xA;[build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.</description>
-    </item>
-    <item>
-      <title>Who am I ?!</title>
-      <link>https://zigzaggery.space/post/2020/jan/who-am-i/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zigzaggery.space/post/2020/jan/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple.</description>
     </item>
   </channel>
 </rss>
