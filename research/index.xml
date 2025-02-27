@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Zigzaggery</title>
+    <link>https://zigzaggery.space/research/</link>
+    <description>Recent content in Research on Zigzaggery</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zigzaggery.space/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropomorphism and its Discontents</title>
+      <link>https://zigzaggery.space/research/2024/anthropomorphism-chapter/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/research/2024/anthropomorphism-chapter/</guid>
+      <description>Introduction AI technologies raise many ethical questions. Some of these are associated with technical underpinnings and operation; surveillance, data gathering, and analysis, or copyright and intellectual property issues as can be seen in the widescale processing of published writing or artworks that support generative AI.</description>
+    </item>
+    <item>
+      <title>Robots and Communication</title>
+      <link>https://zigzaggery.space/research/2024/robots-and-communication/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://zigzaggery.space/research/2024/robots-and-communication/</guid>
+      <description>Overview Robots and Communication examines human-robot interactions as models of communication. Robots are intriguing communicators because they are created in such a variety of forms. Some are built to appear humanlike, while others are not humanlike in any way, with many different designs existing in the continuum between these extremes.</description>
+    </item>
+  </channel>
+</rss>
