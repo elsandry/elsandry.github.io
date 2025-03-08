@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zigzaggery.space/post/</loc>
-    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/golf/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://zigzaggery.space/tags/</loc>
-    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/post/2025/mar/so-it-begins-golf/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/</loc>
+    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zigzaggery.space/post/2025/mar/weeknotes-02/</loc>
-    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
