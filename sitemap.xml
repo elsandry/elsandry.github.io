@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zigzaggery.space/post/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/weeknotes/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/post/2026/jan/weeknotes-11/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -13,16 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zigzaggery.space/post/2026/jan/range-2026/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/tags/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -49,11 +59,6 @@
   </url><url>
     <loc>https://zigzaggery.space/post/2026/jan/work-and-play/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/tags/weeknotes/</loc>
-    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
