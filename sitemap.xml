@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zigzaggery.space/post/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/post/2026/sep/perisher-2026/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/skiing/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/travel/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/tags/weeknotes/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -13,16 +43,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zigzaggery.space/post/2026/aug/post-golf-lesson/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/tags/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,11 +62,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://zigzaggery.space/tags/weeknotes/</loc>
-    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://zigzaggery.space/post/2026/may/weeknotes-10/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -63,6 +78,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://zigzaggery.space/post/2026/apr/weeknotes-19/</loc>
+    <lastmod>2026-04-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://zigzaggery.space/post/2026/sep/nsw-coast-to-canberra-2026/</loc>
     <lastmod>2026-04-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -209,11 +229,6 @@
   </url><url>
     <loc>https://zigzaggery.space/post/2025/aug/weeknotes-31/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://zigzaggery.space/tags/skiing/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
